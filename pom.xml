@@ -14,9 +14,7 @@
     </parent>
 
     <properties>
-    	<spring-data-releasetrain.version>Hopper-BUILD-SNAPSHOT</spring-data-releasetrain.version>
         <java.version>1.8</java.version>
-        <spring-hateoas.version>0.20.0.BUILD-SNAPSHOT</spring-hateoas.version>
     </properties>
 
     <dependencies>

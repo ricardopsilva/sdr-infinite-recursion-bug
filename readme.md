@@ -29,4 +29,4 @@ curl -H 'Accept:application/schema+json' http://localhost:8080/books
 
 The project uses latests version of :
 
-- [Spring Data REST](http://github.com/spring-projects/spring-data-rest) - 2.5.0.BUILD-SNAPSHOT
+- [Spring Data REST](http://github.com/spring-projects/spring-data-rest) - 2.4.2
